@@ -1,422 +1,382 @@
 [
-    {
-        "id": "2b6cc446a7f1a65e",
-        "id_parent": 75961089,
-        "source_text": "Denómase cerveza a una bébora alcohólica, non destilada, de tastu amargosu que se fabrica con granos de cebada o otros cereales nel que'l so aprestu, una vuelta remanáu, ye formentao n' agua y normalmente arumáu con llúpulu.",
-        "duration": 17.194666666666667,
-        "speaker": [
-            {
-                "label": "speaker_1",
-                "user_id": 6179,
-                "gender": "female",
-                "age_range": "18-29"
-            }
-        ],
-        "type": "monologue",
-        "filename": "ADA/ast_ADA_2b6cc446a7f1a65e.wav",
-        "language": "asturian",
-        "audio_format": {
-            "extension": "wav",
-            "sample_rate": 48000
-        },
-        "ADA": {
-            "augment_1": {
-                "name": "background_noise",
-                "noise": "stadium",
-                "filename:": "noises/stadium-11-01.mp3",
-                "parameters": [
-                    {
-                        "snr_in_db": 26.681613754210435,
-                        "rms_noise": "relative"
-                    }
-                ]
-            },
-            "augment_2": {
-                "name": "tanh_distortion",
-                "parameters": [
-                    {
-                        "distortion_amount": 0.33554814986571435
-                    }
-                ]
-            }
-        }
+  {
+    "id": "2b6cc446a7f1a65e",
+    "id_parent": 75961089,
+    "source_text": "Denómase cerveza a una bébora alcohólica, non destilada, de tastu amargosu que se fabrica con granos de cebada o otros cereales nel que'l so aprestu, una vuelta remanáu, ye formentao n' agua y normalmente arumáu con llúpulu.",
+    "duration": 17.194666666666667,
+    "speaker": [
+      {
+        "label": "speaker_1",
+        "user_id": 6179,
+        "gender": "female",
+        "age_range": "18-29"
+      }
+    ],
+    "type": "monologue",
+    "filename": "ADA/ast_ADA_2b6cc446a7f1a65e.wav",
+    "language": "asturian",
+    "audio_format": {
+      "extension": "wav",
+      "sample_rate": 48000
     },
-    {
-        "id": "12cb79244defc00f",
-        "id_parent": 75961089,
-        "source_text": "Denómase cerveza a una bébora alcohólica, non destilada, de tastu amargosu que se fabrica con granos de cebada o otros cereales nel que'l so aprestu, una vuelta remanáu, ye formentao n' agua y normalmente arumáu con llúpulu.",
-        "duration": 17.194666666666667,
-        "speaker": [
-            {
-                "label": "speaker_1",
-                "user_id": 6179,
-                "gender": "female",
-                "age_range": "18-29"
-            }
-        ],
-        "type": "monologue",
-        "filename": "ADA/ast_ADA_12cb79244defc00f.wav",
-        "language": "asturian",
-        "audio_format": {
-            "extension": "wav",
-            "sample_rate": 48000
-        },
-        "ADA": {
-            "augment_1": {
-                "name": "background_noise",
-                "noise": "baby",
-                "filename:": "noises/baby-crying-08-02.mp3",
-                "parameters": [
-                    {
-                        "snr_in_db": 19.21669305460216,
-                        "rms_noise": "relative"
-                    }
-                ]
-            },
-            "augment_2": {
-                "name": "gaussian_noise",
-                "parameters": [
-                    {
-                        "amplitude": 0.01538984820847402
-                    }
-                ]
-            }
+    "ADA": {
+      "augment_1": {
+        "name": "background_noise",
+        "noise": "stadium",
+        "filename:": "noises/stadium-11-01.mp3",
+        "parameters": {
+          "snr_in_db": 26.681613754210435,
+          "rms_noise": "relative"
         }
-    },
-    {
-        "id": "5b56dceb58e46322",
-        "id_parent": 75961089,
-        "source_text": "Denómase cerveza a una bébora alcohólica, non destilada, de tastu amargosu que se fabrica con granos de cebada o otros cereales nel que'l so aprestu, una vuelta remanáu, ye formentao n' agua y normalmente arumáu con llúpulu.",
-        "duration": 24.263166666666667,
-        "speaker": [
-            {
-                "label": "speaker_1",
-                "user_id": 6179,
-                "gender": "female",
-                "age_range": "18-29"
-            }
-        ],
-        "type": "monologue",
-        "filename": "ADA/ast_ADA_5b56dceb58e46322.wav",
-        "language": "asturian",
-        "audio_format": {
-            "extension": "wav",
-            "sample_rate": 48000
-        },
-        "ADA": {
-            "augment_1": {
-                "name": "background_noise",
-                "noise": "stadium",
-                "filename:": "noises/stadium-04-01.mp3",
-                "parameters": [
-                    {
-                        "snr_in_db": 26.040574815917417,
-                        "rms_noise": "relative"
-                    }
-                ]
-            },
-            "augment_2": {
-                "name": "time_stretch",
-                "parameters": [
-                    {
-                        "rate": 0.7086735122488477
-                    }
-                ]
-            }
+      },
+      "augment_2": {
+        "name": "tanh_distortion",
+        "parameters": {
+          "distortion_amount": 0.33554814986571435
         }
-    },
-    {
-        "id": "5d24e8d5ee5abb2e",
-        "id_parent": 75961089,
-        "source_text": "Denómase cerveza a una bébora alcohólica, non destilada, de tastu amargosu que se fabrica con granos de cebada o otros cereales nel que'l so aprestu, una vuelta remanáu, ye formentao n' agua y normalmente arumáu con llúpulu.",
-        "duration": 17.194666666666667,
-        "speaker": [
-            {
-                "label": "speaker_1",
-                "user_id": 6179,
-                "gender": "female",
-                "age_range": "18-29"
-            }
-        ],
-        "type": "monologue",
-        "filename": "ADA/ast_ADA_5d24e8d5ee5abb2e.wav",
-        "language": "asturian",
-        "audio_format": {
-            "extension": "wav",
-            "sample_rate": 48000
-        },
-        "ADA": {
-            "augment_1": {
-                "name": "background_noise",
-                "noise": "baby",
-                "filename:": "noises/baby-crying-11-02.mp3",
-                "parameters": [
-                    {
-                        "snr_in_db": 15.252737485217338,
-                        "rms_noise": "relative"
-                    }
-                ]
-            },
-            "augment_2": {
-                "name": "tanh_distortion",
-                "parameters": [
-                    {
-                        "distortion_amount": 0.28323779091003864
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "id": "8748b1d73afbbe93",
-        "id_parent": 75961089,
-        "source_text": "Denómase cerveza a una bébora alcohólica, non destilada, de tastu amargosu que se fabrica con granos de cebada o otros cereales nel que'l so aprestu, una vuelta remanáu, ye formentao n' agua y normalmente arumáu con llúpulu.",
-        "duration": 10.730666666666666,
-        "speaker": [
-            {
-                "label": "speaker_1",
-                "user_id": 6179,
-                "gender": "female",
-                "age_range": "18-29"
-            }
-        ],
-        "type": "monologue",
-        "filename": "ADA/ast_ADA_8748b1d73afbbe93.wav",
-        "language": "asturian",
-        "audio_format": {
-            "extension": "wav",
-            "sample_rate": 48000
-        },
-        "ADA": {
-            "augment_1": {
-                "name": "background_noise",
-                "noise": "construction",
-                "filename:": "noises/construction-11-01.mp3",
-                "parameters": [
-                    {
-                        "snr_in_db": 11.509768099472764,
-                        "rms_noise": "relative"
-                    }
-                ]
-            },
-            "augment_2": {
-                "name": "time_stretch",
-                "parameters": [
-                    {
-                        "rate": 1.6023864586818553
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "id": "dcf1d8ea915dd3c5",
-        "id_parent": 75988478,
-        "source_text": "Añera n'árboles poniendo de 4 a 6 güevos nun nial llimpiu.",
-        "duration": 10.958526077097506,
-        "speaker": [
-            {
-                "label": "speaker_1",
-                "user_id": 6283,
-                "gender": "male",
-                "age_range": ">50"
-            }
-        ],
-        "type": "monologue",
-        "filename": "ADA/ast_ADA_dcf1d8ea915dd3c5.wav",
-        "language": "asturian",
-        "audio_format": {
-            "extension": "wav",
-            "sample_rate": 44100
-        },
-        "ADA": {
-            "augment_1": {
-                "name": "background_noise",
-                "noise": "stadium",
-                "filename:": "noises/stadium-07-01.mp3",
-                "parameters": [
-                    {
-                        "snr_in_db": 24.079734762803472,
-                        "rms_noise": "relative"
-                    }
-                ]
-            },
-            "augment_2": {
-                "name": "time_stretch",
-                "parameters": [
-                    {
-                        "rate": 0.6822833358454388
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "id": "3b7250dac6752da1",
-        "id_parent": 75988478,
-        "source_text": "Añera n'árboles poniendo de 4 a 6 güevos nun nial llimpiu.",
-        "duration": 7.407868480725623,
-        "speaker": [
-            {
-                "label": "speaker_1",
-                "user_id": 6283,
-                "gender": "male",
-                "age_range": ">50"
-            }
-        ],
-        "type": "monologue",
-        "filename": "ADA/ast_ADA_3b7250dac6752da1.wav",
-        "language": "asturian",
-        "audio_format": {
-            "extension": "wav",
-            "sample_rate": 44100
-        },
-        "ADA": {
-            "augment_1": {
-                "name": "background_noise",
-                "noise": "airport",
-                "filename:": "noises/airport-07-02.mp3",
-                "parameters": [
-                    {
-                        "snr_in_db": 27.523202053879658,
-                        "rms_noise": "relative"
-                    }
-                ]
-            },
-            "augment_2": {
-                "name": "time_stretch",
-                "parameters": [
-                    {
-                        "rate": 1.00931014043767
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "id": "23eb14ae7645f097",
-        "id_parent": 75988478,
-        "source_text": "Añera n'árboles poniendo de 4 a 6 güevos nun nial llimpiu.",
-        "duration": 7.476825396825397,
-        "speaker": [
-            {
-                "label": "speaker_1",
-                "user_id": 6283,
-                "gender": "male",
-                "age_range": ">50"
-            }
-        ],
-        "type": "monologue",
-        "filename": "ADA/ast_ADA_23eb14ae7645f097.wav",
-        "language": "asturian",
-        "audio_format": {
-            "extension": "wav",
-            "sample_rate": 44100
-        },
-        "ADA": {
-            "augment_1": {
-                "name": "background_noise",
-                "noise": "baby",
-                "filename:": "noises/baby-crying-08-01.mp3",
-                "parameters": [
-                    {
-                        "snr_in_db": 29.283697429251227,
-                        "rms_noise": "relative"
-                    }
-                ]
-            },
-            "augment_2": {
-                "name": "gaussian_noise",
-                "parameters": [
-                    {
-                        "amplitude": 0.016136189024621758
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "id": "443d813b6c86d1ef",
-        "id_parent": 75988478,
-        "source_text": "Añera n'árboles poniendo de 4 a 6 güevos nun nial llimpiu.",
-        "duration": 7.476825396825397,
-        "speaker": [
-            {
-                "label": "speaker_1",
-                "user_id": 6283,
-                "gender": "male",
-                "age_range": ">50"
-            }
-        ],
-        "type": "monologue",
-        "filename": "ADA/ast_ADA_443d813b6c86d1ef.wav",
-        "language": "asturian",
-        "audio_format": {
-            "extension": "wav",
-            "sample_rate": 44100
-        },
-        "ADA": {
-            "augment_1": {
-                "name": "background_noise",
-                "noise": "rain",
-                "filename:": "noises/rain-13-02.mp3",
-                "parameters": [
-                    {
-                        "snr_in_db": 14.47682840461994,
-                        "rms_noise": "relative"
-                    }
-                ]
-            },
-            "augment_2": {
-                "name": "tanh_distortion",
-                "parameters": [
-                    {
-                        "distortion_amount": 0.12005580887364097
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "id": "f0e9f9f281adfc1e",
-        "id_parent": 75988478,
-        "source_text": "Añera n'árboles poniendo de 4 a 6 güevos nun nial llimpiu.",
-        "duration": 7.476825396825397,
-        "speaker": [
-            {
-                "label": "speaker_1",
-                "user_id": 6283,
-                "gender": "male",
-                "age_range": ">50"
-            }
-        ],
-        "type": "monologue",
-        "filename": "ADA/ast_ADA_f0e9f9f281adfc1e.wav",
-        "language": "asturian",
-        "audio_format": {
-            "extension": "wav",
-            "sample_rate": 44100
-        },
-        "ADA": {
-            "augment_1": {
-                "name": "background_noise",
-                "noise": "city",
-                "filename:": "noises/city-06-02.mp3",
-                "parameters": [
-                    {
-                        "snr_in_db": 14.657579849549327,
-                        "rms_noise": "relative"
-                    }
-                ]
-            },
-            "augment_2": {
-                "name": "gaussian_noise",
-                "parameters": [
-                    {
-                        "amplitude": 0.01228665364300106
-                    }
-                ]
-            }
-        }
+      }
     }
+  },
+  {
+    "id": "12cb79244defc00f",
+    "id_parent": 75961089,
+    "source_text": "Denómase cerveza a una bébora alcohólica, non destilada, de tastu amargosu que se fabrica con granos de cebada o otros cereales nel que'l so aprestu, una vuelta remanáu, ye formentao n' agua y normalmente arumáu con llúpulu.",
+    "duration": 17.194666666666667,
+    "speaker": [
+      {
+        "label": "speaker_1",
+        "user_id": 6179,
+        "gender": "female",
+        "age_range": "18-29"
+      }
+    ],
+    "type": "monologue",
+    "filename": "ADA/ast_ADA_12cb79244defc00f.wav",
+    "language": "asturian",
+    "audio_format": {
+      "extension": "wav",
+      "sample_rate": 48000
+    },
+    "ADA": {
+      "augment_1": {
+        "name": "background_noise",
+        "noise": "baby",
+        "filename:": "noises/baby-crying-08-02.mp3",
+        "parameters": {
+          "snr_in_db": 19.21669305460216,
+          "rms_noise": "relative"
+        }
+      },
+      "augment_2": {
+        "name": "gaussian_noise",
+        "parameters": {
+          "amplitude": 0.01538984820847402
+        }
+      }
+    }
+  },
+  {
+    "id": "5b56dceb58e46322",
+    "id_parent": 75961089,
+    "source_text": "Denómase cerveza a una bébora alcohólica, non destilada, de tastu amargosu que se fabrica con granos de cebada o otros cereales nel que'l so aprestu, una vuelta remanáu, ye formentao n' agua y normalmente arumáu con llúpulu.",
+    "duration": 24.263166666666667,
+    "speaker": [
+      {
+        "label": "speaker_1",
+        "user_id": 6179,
+        "gender": "female",
+        "age_range": "18-29"
+      }
+    ],
+    "type": "monologue",
+    "filename": "ADA/ast_ADA_5b56dceb58e46322.wav",
+    "language": "asturian",
+    "audio_format": {
+      "extension": "wav",
+      "sample_rate": 48000
+    },
+    "ADA": {
+      "augment_1": {
+        "name": "background_noise",
+        "noise": "stadium",
+        "filename:": "noises/stadium-04-01.mp3",
+        "parameters": {
+          "snr_in_db": 26.040574815917417,
+          "rms_noise": "relative"
+        }
+      },
+      "augment_2": {
+        "name": "time_stretch",
+        "parameters": {
+          "rate": 0.7086735122488477
+        }
+      }
+    }
+  },
+  {
+    "id": "5d24e8d5ee5abb2e",
+    "id_parent": 75961089,
+    "source_text": "Denómase cerveza a una bébora alcohólica, non destilada, de tastu amargosu que se fabrica con granos de cebada o otros cereales nel que'l so aprestu, una vuelta remanáu, ye formentao n' agua y normalmente arumáu con llúpulu.",
+    "duration": 17.194666666666667,
+    "speaker": [
+      {
+        "label": "speaker_1",
+        "user_id": 6179,
+        "gender": "female",
+        "age_range": "18-29"
+      }
+    ],
+    "type": "monologue",
+    "filename": "ADA/ast_ADA_5d24e8d5ee5abb2e.wav",
+    "language": "asturian",
+    "audio_format": {
+      "extension": "wav",
+      "sample_rate": 48000
+    },
+    "ADA": {
+      "augment_1": {
+        "name": "background_noise",
+        "noise": "baby",
+        "filename:": "noises/baby-crying-11-02.mp3",
+        "parameters": {
+          "snr_in_db": 15.252737485217338,
+          "rms_noise": "relative"
+        }
+      },
+      "augment_2": {
+        "name": "tanh_distortion",
+        "parameters": {
+          "distortion_amount": 0.28323779091003864
+        }
+      }
+    }
+  },
+  {
+    "id": "8748b1d73afbbe93",
+    "id_parent": 75961089,
+    "source_text": "Denómase cerveza a una bébora alcohólica, non destilada, de tastu amargosu que se fabrica con granos de cebada o otros cereales nel que'l so aprestu, una vuelta remanáu, ye formentao n' agua y normalmente arumáu con llúpulu.",
+    "duration": 10.730666666666666,
+    "speaker": [
+      {
+        "label": "speaker_1",
+        "user_id": 6179,
+        "gender": "female",
+        "age_range": "18-29"
+      }
+    ],
+    "type": "monologue",
+    "filename": "ADA/ast_ADA_8748b1d73afbbe93.wav",
+    "language": "asturian",
+    "audio_format": {
+      "extension": "wav",
+      "sample_rate": 48000
+    },
+    "ADA": {
+      "augment_1": {
+        "name": "background_noise",
+        "noise": "construction",
+        "filename:": "noises/construction-11-01.mp3",
+        "parameters": {
+          "snr_in_db": 11.509768099472764,
+          "rms_noise": "relative"
+        }
+      },
+      "augment_2": {
+        "name": "time_stretch",
+        "parameters": {
+          "rate": 1.6023864586818553
+        }
+      }
+    }
+  },
+  {
+    "id": "dcf1d8ea915dd3c5",
+    "id_parent": 75988478,
+    "source_text": "Añera n'árboles poniendo de 4 a 6 güevos nun nial llimpiu.",
+    "duration": 10.958526077097506,
+    "speaker": [
+      {
+        "label": "speaker_1",
+        "user_id": 6283,
+        "gender": "male",
+        "age_range": ">50"
+      }
+    ],
+    "type": "monologue",
+    "filename": "ADA/ast_ADA_dcf1d8ea915dd3c5.wav",
+    "language": "asturian",
+    "audio_format": {
+      "extension": "wav",
+      "sample_rate": 44100
+    },
+    "ADA": {
+      "augment_1": {
+        "name": "background_noise",
+        "noise": "stadium",
+        "filename:": "noises/stadium-07-01.mp3",
+        "parameters": {
+          "snr_in_db": 24.079734762803472,
+          "rms_noise": "relative"
+        }
+      },
+      "augment_2": {
+        "name": "time_stretch",
+        "parameters": {
+          "rate": 0.6822833358454388
+        }
+      }
+    }
+  },
+  {
+    "id": "3b7250dac6752da1",
+    "id_parent": 75988478,
+    "source_text": "Añera n'árboles poniendo de 4 a 6 güevos nun nial llimpiu.",
+    "duration": 7.407868480725623,
+    "speaker": [
+      {
+        "label": "speaker_1",
+        "user_id": 6283,
+        "gender": "male",
+        "age_range": ">50"
+      }
+    ],
+    "type": "monologue",
+    "filename": "ADA/ast_ADA_3b7250dac6752da1.wav",
+    "language": "asturian",
+    "audio_format": {
+      "extension": "wav",
+      "sample_rate": 44100
+    },
+    "ADA": {
+      "augment_1": {
+        "name": "background_noise",
+        "noise": "airport",
+        "filename:": "noises/airport-07-02.mp3",
+        "parameters": {
+          "snr_in_db": 27.523202053879658,
+          "rms_noise": "relative"
+        }
+      },
+      "augment_2": {
+        "name": "time_stretch",
+        "parameters": {
+          "rate": 1.00931014043767
+        }
+      }
+    }
+  },
+  {
+    "id": "23eb14ae7645f097",
+    "id_parent": 75988478,
+    "source_text": "Añera n'árboles poniendo de 4 a 6 güevos nun nial llimpiu.",
+    "duration": 7.476825396825397,
+    "speaker": [
+      {
+        "label": "speaker_1",
+        "user_id": 6283,
+        "gender": "male",
+        "age_range": ">50"
+      }
+    ],
+    "type": "monologue",
+    "filename": "ADA/ast_ADA_23eb14ae7645f097.wav",
+    "language": "asturian",
+    "audio_format": {
+      "extension": "wav",
+      "sample_rate": 44100
+    },
+    "ADA": {
+      "augment_1": {
+        "name": "background_noise",
+        "noise": "baby",
+        "filename:": "noises/baby-crying-08-01.mp3",
+        "parameters": {
+          "snr_in_db": 29.283697429251227,
+          "rms_noise": "relative"
+        }
+      },
+      "augment_2": {
+        "name": "gaussian_noise",
+        "parameters": {
+          "amplitude": 0.016136189024621758
+        }
+      }
+    }
+  },
+  {
+    "id": "443d813b6c86d1ef",
+    "id_parent": 75988478,
+    "source_text": "Añera n'árboles poniendo de 4 a 6 güevos nun nial llimpiu.",
+    "duration": 7.476825396825397,
+    "speaker": [
+      {
+        "label": "speaker_1",
+        "user_id": 6283,
+        "gender": "male",
+        "age_range": ">50"
+      }
+    ],
+    "type": "monologue",
+    "filename": "ADA/ast_ADA_443d813b6c86d1ef.wav",
+    "language": "asturian",
+    "audio_format": {
+      "extension": "wav",
+      "sample_rate": 44100
+    },
+    "ADA": {
+      "augment_1": {
+        "name": "background_noise",
+        "noise": "rain",
+        "filename:": "noises/rain-13-02.mp3",
+        "parameters": {
+          "snr_in_db": 14.47682840461994,
+          "rms_noise": "relative"
+        }
+      },
+      "augment_2": {
+        "name": "tanh_distortion",
+        "parameters": {
+          "distortion_amount": 0.12005580887364097
+        }
+      }
+    }
+  },
+  {
+    "id": "f0e9f9f281adfc1e",
+    "id_parent": 75988478,
+    "source_text": "Añera n'árboles poniendo de 4 a 6 güevos nun nial llimpiu.",
+    "duration": 7.476825396825397,
+    "speaker": [
+      {
+        "label": "speaker_1",
+        "user_id": 6283,
+        "gender": "male",
+        "age_range": ">50"
+      }
+    ],
+    "type": "monologue",
+    "filename": "ADA/ast_ADA_f0e9f9f281adfc1e.wav",
+    "language": "asturian",
+    "audio_format": {
+      "extension": "wav",
+      "sample_rate": 44100
+    },
+    "ADA": {
+      "augment_1": {
+        "name": "background_noise",
+        "noise": "city",
+        "filename:": "noises/city-06-02.mp3",
+        "parameters": {
+          "snr_in_db": 14.657579849549327,
+          "rms_noise": "relative"
+        }
+      },
+      "augment_2": {
+        "name": "gaussian_noise",
+        "parameters": {
+          "amplitude": 0.01228665364300106
+        }
+      }
+    }
+  }
 ]
