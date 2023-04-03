@@ -10,11 +10,3 @@ def get_audios(path):
         print("Invalid file")
         sys.exit(1)
     return audios
-
-
-if __name__ == "__main__":
-    import pprint
-
-    path = "audios.json"
-    audios = get_audios(path)
-    pprint.pprint(audios)
