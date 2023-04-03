@@ -55,14 +55,14 @@ If you use the datasets for any purpose, please cite the original source of the 
 
 ```bib
 @Misc{ele2-da,
-	author =	{Jose Herrera and Moises Barrios},
-	title =		{{Generation of a Large Speech Corpus for Spain Languages using Data Augmentation}},
-	year =		2023,
-	url =		{XXXX},
-	note =		{Project deliverable; EU project European Language Equality (ELE); Grant Agreement no.~LC-01884166 – 101075356 ELE2},
+	author = {Jose Herrera and Moises Barrios},
+	title =	{{Generation of a Large Speech Corpus for Spain Languages using Data Augmentation}},
+	year =	2023,
+	url =	{http://},
+	note =	{Project deliverable; EU project European Language Equality (ELE); Grant Agreement no.~LC-01884166 – 101075356 ELE2},
 }
 ```
 
 
 ## Contact
-If you have any questions or comments about this repository, please feel free to contact us at XXXXXX. 
+If you have any questions or comments about this repository, please feel free to contact us at [support@pangeanic.com](mail:support@pangeanic.com).
