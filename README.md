@@ -17,10 +17,10 @@ The dataset is distributed as follows:
 
 | File                               | # audio | hrs   | Size  | Description          |
 |------------------------------------|---------|-------|-------|--------------------------------|
-| [catalan_dataset.zip](http://XX)  | 12,231  | 56.7  | 11.0 GB | Original audios of catalan and metadata. |
-| [galician_dataset.zip](http://XX) | 22,304  | 62.5  | 8.0 GB | Original audios of galician and metadata.|
-| [euskera_dataset.zip](http://XX)  | 12,231  | 37.6  | 6.0 GB | Original audios of euskera and metadata. |
-| [asturian_dataset.zip](http://XX) |  8,459  | 25.6  | 3.7 GB | Original audios of asturian and metadata.|
+| [catalan_dataset.zip](http://XX)  | 12,231  | 56.7  | 11.0 GB | Audio files in the Catalan language and metadata. |
+| [galician_dataset.zip](http://XX) | 22,304  | 62.5  | 8.0 GB | Audio files in the Galician language and metadata.|
+| [euskera_dataset.zip](http://XX)  | 12,231  | 37.6  | 6.0 GB | Audio files in the Euskera language and metadata. |
+| [asturian_dataset.zip](http://XX) |  8,459  | 25.6  | 3.7 GB | Audio files in the Asturian language and metadata.|
 | **TOTAL**                              | **63,271**  | **182.5** |                           |
 
 We provide the [noises](http://noises.zip) (28 MB) applied in ADA, and also all previous files in [one zip file](http://) (29 GB). 
@@ -44,7 +44,7 @@ We used the following ADA techniques:
 
 * **Time stretching**: This technique involves changing the duration of the speech signal to increase its variability.
 
-* **Gaussean noise**: This technique simulates the effects of background noise in real-world environments. 
+* **Gaussian noise**: This technique simulates the effects of background noise in real-world environments. 
 
 The parameteres used are in the report. 
 
@@ -60,7 +60,7 @@ If you use the datasets for any purpose, please cite the original source of the 
 	author = {Jose Herrera and Moises Barrios},
 	title =	{{Generation of a Large Speech Corpus for Spain Languages using Data Augmentation}},
 	year =	2023,
-	url =	{http://},
+	url =	{PENDING},
 	note =	{Project deliverable; EU project European Language Equality (ELE); Grant Agreement no.~LC-01884166 – 101075356 ELE2},
 }
 ```
