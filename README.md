@@ -27,7 +27,7 @@ We provide the [noises](https://s3.eu-west-1.amazonaws.com/com.pangeanic.voice.p
 
 ## Example of ADA
 
-An example of [ADA applied to asturian](http://ada.zip) (133 GB) is available as well. However, given the file is too large, we provide **in this repository** a tiny example using the asturian language. The file `ast_metada_tiny.json` is the metadata of two audio files in asturian that are in `ast/` folder, and `ast_ADA_metada_tiny.json` is the metadata of the augmented files that are in `ADA/`. 
+An example of [ADA applied to asturian](https://s3.eu-west-1.amazonaws.com/com.pangeanic.voice.projects/ele2-ada/ast_ADA.zip) (133 GB) is available as well. However, given the file is too large, we provide **in this repository** a tiny example using the asturian language. The file `ast_metada_tiny.json` is the metadata of two audio files in asturian that are in `ast/` folder, and `ast_ADA_metada_tiny.json` is the metadata of the augmented files that are in `ADA/`. 
 
 
 ## Usage
