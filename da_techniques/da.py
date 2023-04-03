@@ -38,7 +38,7 @@ def da(path, n):
             ) = data_augmentation(audio, sr)
             hash_id = secrets.token_hex(nbytes=8)
 
-            filename = f"ADA/{lang}_ADA_{hash_id}.wav"
+            filename = f"../ADA/{lang}_ADA_{hash_id}.wav"
             sf.write(f"{filename}", da_audio, sr)
             duration = get_duration(f"{filename}")
             info = {
@@ -79,7 +79,7 @@ def da(path, n):
 
             audios_info.append(info)
 
-    with open(f"{lang}_ADA_metadata.json", "w") as outfile:
+    with open(f"../{lang}_ADA_metadata.json", "w") as outfile:
         json.dump(audios_info, outfile, ensure_ascii=False, indent=4)
 
     print(f"{round(time.time() - s, 2)}s")
