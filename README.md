@@ -17,11 +17,12 @@ The dataset is distributed as follows:
 
 | File                               | # audio | hrs   | Size  | Description          |
 |------------------------------------|---------|-------|-------|--------------------------------|
-| [catalan_dataset.zip](https://s3.eu-west-1.amazonaws.com/com.pangeanic.voice.projects/ele2-ada/catalan_dataset.zip)  | 12,231  | 56.7  | 11.0 GB | Audio files in the Catalan language and metadata. |
+|
+[catalan_dataset.zip](https://s3.eu-west-1.amazonaws.com/com.pangeanic.voice.projects/ele2-ada/catalan_dataset.zip)| 20,277  | 56.7  | 11.0 GB | Audio files in the Catalan language and metadata. |
 | [galician_dataset.zip](https://s3.eu-west-1.amazonaws.com/com.pangeanic.voice.projects/ele2-ada/galician_dataset.zip) | 22,304  | 62.5  | 8.0 GB | Audio files in the Galician language and metadata.|
 | [euskera_dataset.zip](https://s3.eu-west-1.amazonaws.com/com.pangeanic.voice.projects/ele2-ada/euskera_dataset.zip)  | 12,231  | 37.6  | 6.0 GB | Audio files in the Euskera language and metadata. |
 | [asturian_dataset.zip](https://s3.eu-west-1.amazonaws.com/com.pangeanic.voice.projects/ele2-ada/asturian_dataset.zip) |  8,459  | 25.6  | 3.7 GB | Audio files in the Asturian language and metadata.|
-| **TOTAL**                              | **63,271**  | **182.5** |                           |
+| **TOTAL**                              | **63,271**  | **182.4** |                           |
 
 We provide the [noises](https://s3.eu-west-1.amazonaws.com/com.pangeanic.voice.projects/ele2-ada/noises.zip) (28 MB) applied in ADA, and also all previous files in [one zip file](https://s3.eu-west-1.amazonaws.com/com.pangeanic.voice.projects/ele2-ada/all.zip) (29 GB). 
 
