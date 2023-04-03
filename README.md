@@ -16,23 +16,17 @@ The dataset is distributed as follows:
 
 | File                               | # audio | hrs   | Size  | Description          |
 |------------------------------------|---------|-------|-------|--------------------------------|
-| [catalan_audios_original.zip](http://XX)  | 12,231  | 56.7  | XX GB | Original audios of catalan and metadata. |
-| [galician_audios_original.zip](http://XX) | 22,304  | 62.5  | XX GB | Original audios of galician and metadata.|
-| [euskera_audios_original.zip](http://XX)  | 12,231  | 37.6  | XX GB | Original audios of euskera and metadata. |
-| [asturian_audios_original.zip](http://XX) |  8,459  | 25.6  | XX GB | Original audios of asturian and metadata.|
+| [catalan_dataset.zip](http://XX)  | 12,231  | 56.7  | 11.0 GB | Original audios of catalan and metadata. |
+| [galician_dataset.zip](http://XX) | 22,304  | 62.5  | 8.0 GB | Original audios of galician and metadata.|
+| [euskera_dataset.zip](http://XX)  | 12,231  | 37.6  | 6.0 GB | Original audios of euskera and metadata. |
+| [asturian_dataset.zip](http://XX) |  8,459  | 25.6  | 3.7 GB | Original audios of asturian and metadata.|
 | **TOTAL**                              | **63,271**  | **182.5** |                           |
 
-Additionaly, we provide the [noises](http://noises.zip) (XX GB) used in ADA and [examples of files with ADA applied](http://ada.zip) (XX GB).
+They are available the [noises](http://noises.zip) (28 MB). 
 
-Note: The metadata files and source code makes reference to the audio files based on the 
-these struct:
+We also provide all previous files in [one zip file](http://) (29 GB).
 
-```bash
-audios/original/*  # for original audios 
-audio/ada/*        # for audios with ADA applied
-```
-
-So, it is important that you store the audio files in accordance with the previous structure to ensure that they are easily accessible and properly aligned with the corresponding metadata.
+A example of [ADA applied to asturian](http://ada.zip) (133 GB) is available as well. 
 
 
 ## Usage
@@ -50,7 +44,7 @@ We used the following ADA techniques:
 
 * **Gaussean noise**: This technique simulates the effects of background noise in real-world environments. 
 
-The parameteres used are in the [report](http://report).
+The parameteres used are in the report. 
 
 
 
