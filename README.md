@@ -1,4 +1,4 @@
-# Corpus for Spain Languages using Data Augmentation
+# Corpus for Spain Languages using Audio Data Augmentation (ADA)
 
 To contribute to the [ELE strategic agenda](https://european-language-equality.eu/), we create a dataset for building an extensive speech dataset with transcriptions of languages spoken in Spain using audio data augmentation (ADA) techniques. In particular, for languages: **Catalan**, **Galician**, **Asturian** and **Euskera**. 
 
@@ -29,25 +29,16 @@ We provide the [noises](http://noises.zip) (28 MB) applied in ADA, and also all 
 
 An example of [ADA applied to asturian](http://ada.zip) (133 GB) is available as well. However, given the file is too large, we provide **in this repository** a tiny example using the asturian language. The file `ast_metada_tiny.json` is the metadata of two audio files in asturian that are in `ast/` folder, and `ast_ADA_metada_tiny.json` is the metadata of the augmented files that are in `ADA/`. 
 
+https://github.com/Pangeamt/ele2-ada/tree/main/da_techniques
 
 ## Usage
 
 To use this dataset, simply download it following each reference. The transcriptions and metadata can also be used to analyze and annotate the speech data. It could be useful to balance characteristics such as gender and age range. 
 
 
+## Audio Data Augmentation
 
-## Data Augmentation Techniques
-
-We used the following ADA techniques:
-
-* **Background noise**: This technique involves adding random background noise to the speech signal to simulate real-world environments.
-
-* **Time stretching**: This technique involves changing the duration of the speech signal to increase its variability.
-
-* **Gaussian noise**: This technique simulates the effects of background noise in real-world environments. 
-
-The parameteres used are in the report. 
-
+The source code of ADA and documentation are [here](https://github.com/Pangeamt/ele2-ada/tree/main/da_techniques). 
 
 
 ## Citation
