@@ -2,8 +2,9 @@
 
 To contribute to the [ELE strategic agenda](https://european-language-equality.eu/), we create a dataset for building an extensive speech dataset with transcriptions of languages spoken in Spain using audio data augmentation (ADA) techniques. In particular, for languages: **Catalan**, **Galician**, **Asturian** and **Euskera**. 
 
-The complete report is [here](http://report).
-We provide the datasets generated in this report, which include both the audio files and metadata (including transcriptions) for your convenience and further use.
+The complete report is [here (pending)](https://github.com/Pangeamt/ele2-ada). 
+
+We provide the datasets generated in this report, which include the audio files and metadata (including transcriptions) for your convenience and further use.
 
 We hope to encourage the speech technology community to generate more and larger datasets in other EU languages.
 
@@ -22,16 +23,17 @@ The dataset is distributed as follows:
 | [asturian_dataset.zip](http://XX) |  8,459  | 25.6  | 3.7 GB | Original audios of asturian and metadata.|
 | **TOTAL**                              | **63,271**  | **182.5** |                           |
 
-They are available the [noises](http://noises.zip) (28 MB). 
+We provide the [noises](http://noises.zip) (28 MB) applied in ADA, and also all previous files in [one zip file](http://) (29 GB). 
 
-We also provide all previous files in [one zip file](http://) (29 GB).
+## Example of ADA
 
-A example of [ADA applied to asturian](http://ada.zip) (133 GB) is available as well. 
+An example of [ADA applied to asturian](http://ada.zip) (133 GB) is available as well. However, given the file is too large, we provide **in this repository** a tiny example using the asturian language. The file `ast_metada_tiny.json` is the metadata of two audio files in asturian that are in `ast/` folder, and `ast_ADA_metada_tiny.json` is the metadata of the augmented files that are in `ADA/`. 
 
 
 ## Usage
 
 To use this dataset, simply download it following each reference. The transcriptions and metadata can also be used to analyze and annotate the speech data. It could be useful to balance characteristics such as gender and age range. 
+
 
 
 ## Data Augmentation Techniques

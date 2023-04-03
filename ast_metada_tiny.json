@@ -1,0 +1,34 @@
+[
+    {
+        "id": 75961089,
+        "source_text": "Denómase cerveza a una bébora alcohólica, non destilada, de tastu amargosu que se fabrica con granos de cebada o otros cereales nel que'l so aprestu, una vuelta remanáu, ye formentao n' agua y normalmente arumáu con llúpulu.",
+        "duration": 17.1946666667,
+        "speaker": [
+            {
+                "label": "speaker_1",
+                "user_id": 6179,
+                "gender": "female",
+                "age_range": "18-29"
+            }
+        ],
+        "type": "monologue",
+        "filename": "ast/ast_75961089_audio.mp3",
+        "language": "asturian"
+    },
+    {
+        "id": 75988478,
+        "source_text": "Añera n'árboles poniendo de 4 a 6 güevos nun nial llimpiu.",
+        "duration": 7.477,
+        "speaker": [
+            {
+                "label": "speaker_1",
+                "user_id": 6283,
+                "gender": "male",
+                "age_range": ">50"
+            }
+        ],
+        "type": "monologue",
+        "filename": "ast/ast_75988478_audio.mp3",
+        "language": "asturian"
+    }
+]
