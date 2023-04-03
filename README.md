@@ -29,7 +29,6 @@ We provide the [noises](http://noises.zip) (28 MB) applied in ADA, and also all 
 
 An example of [ADA applied to asturian](http://ada.zip) (133 GB) is available as well. However, given the file is too large, we provide **in this repository** a tiny example using the asturian language. The file `ast_metada_tiny.json` is the metadata of two audio files in asturian that are in `ast/` folder, and `ast_ADA_metada_tiny.json` is the metadata of the augmented files that are in `ADA/`. 
 
-https://github.com/Pangeamt/ele2-ada/tree/main/da_techniques
 
 ## Usage
 
